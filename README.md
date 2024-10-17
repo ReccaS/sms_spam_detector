@@ -17,7 +17,7 @@ Running the App
 To run the sms_spam_detector application, clone this repository and navigate to the project directory:
 
 
-git clone https://github.com/yourusername/sms_spam_detector.git
+git clone https://github.com/ReccaS/sms_spam_detector.git
 cd sms_spam_detector
 Once in the project directory, launch the Gradio app by executing:
 
